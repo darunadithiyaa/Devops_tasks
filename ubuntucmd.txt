@@ -1,4 +1,4 @@
-arvind_2004@ARVINDM:/$ sudo apt install openjdk-17-jdk
+V.S. Darun Adithiya@LAPTOP-RHPI6Q69 :/$ sudo apt install openjdk-17-jdk
 Reading package lists... Done
 Building dependency tree... Done
 Reading state information... Done
