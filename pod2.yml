@@ -4,7 +4,7 @@ metadata:
   name: my-pod2
 spec:
   containers:
-    - name: arvindm2004/webapp1
-      image: arvindm2004/webapp1:tagname
+    - name: darun2005/webapp1
+      image: darun2005/webapp1:tagname
   ports:
         - containerPort: 8084
