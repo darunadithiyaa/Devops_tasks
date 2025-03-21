@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('SCM') {
             steps {
-               git 'https://github.com/Arvind22cse/Devops_Guivi.git'
+               git 'https://github.com/darunadithiyaa/Devops_Guivi.git'
             }
         }
             stage('Build'){
